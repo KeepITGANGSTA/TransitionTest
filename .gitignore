@@ -7,5 +7,5 @@
 /build
 /captures
 .externalNativeBuild
-
+*.class
 test_view.xml
